@@ -3,7 +3,7 @@
 
 ##  Overview
 Cardiovascular disease is the leading cause of death worldwide. Early detection enables interventions that save lives.  
-This project replicates a **real-world analyst workflow**: taking a raw clinical dataset, exploring patterns, engineering features, and evaluating multiple ML algorithms. The goal is to demonstrate **end-to-end data science practice**—not to build a production medical tool.
+This project replicates a **real-world analyst workflow**: taking a raw clinical dataset, exploring patterns, engineering features, and evaluating multiple ML algorithms. The goal is to demonstrate **end-to-end data science practice** not to build a production medical tool.
 
 ---
 
