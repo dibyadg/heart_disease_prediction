@@ -26,7 +26,7 @@ This project replicates a **real-world analyst workflow**: taking a raw clinical
 
 ---
 
-## ⚙ Installation
+##  Installation
 1. **Clone the repository**
    ```bash
    git clone https://github.com/YOUR-USERNAME/heart-disease-prediction.git
